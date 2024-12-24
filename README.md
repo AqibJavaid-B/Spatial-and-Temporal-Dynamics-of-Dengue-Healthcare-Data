@@ -40,9 +40,4 @@ This project focuses on:
 - Temporal analysis using STL decomposition.
 - Predictive modeling with Random Forest and Support Vector Regression.
 
----
 
-## **Instructions to Use**
-1. Clone this repository to your local machine:
-   ```bash
-   git clone <REPOSITORY_URL>
