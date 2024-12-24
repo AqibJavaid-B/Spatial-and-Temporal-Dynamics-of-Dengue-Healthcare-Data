@@ -1,4 +1,4 @@
-# Spatial and Temporal Analysis of Dengue Healthcare Data
+# Spatial and Temporal Analysis of Dengue Healthcare Data (Aqib Javaid - 2024-MS-DS-129)
 
 This repository contains the materials for the course project **"Spatial and Temporal Dynamics of Dengue Healthcare Data"**, submitted as part of the **Advanced Techniques in Data Science (CS-608)** course.
 
@@ -39,5 +39,9 @@ This project focuses on:
 - Spatial clustering using SVM and K-Means.
 - Temporal analysis using STL decomposition.
 - Predictive modeling with Random Forest and Support Vector Regression.
+
+### `Clustered_Heatmaps.zip`
+This folder contains supplementary HTML files created for the project i.e., Clustered Heatmaps for Males and Females for the months of May, June, July, and Aug and Hotspots generated using SVM.
+
 
 
